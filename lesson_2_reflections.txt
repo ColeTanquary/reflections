@@ -15,10 +15,13 @@ organized? How would branches help?
   It allows me to create different versions of one game for any reason I nede
 
 How do the diagrams help you visualize the branch structure?
-
+  Allows us to see the connections between different commands
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  It combines two timelines, diagrams help visualize said timelines
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+  Automatic is less work but may not always choose what you want
+  Doing it manually takes more time but will be correct
