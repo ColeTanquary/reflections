@@ -1,15 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
+  to control what could be added to the commit
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+  staging area allows you to control what is committed and what is not
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  By making sure you only add one change at a time to the staging area before
+  you commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  It allows me to create different versions of one game for any reason I nede
 
 How do the diagrams help you visualize the branch structure?
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
