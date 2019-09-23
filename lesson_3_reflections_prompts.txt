@@ -17,14 +17,18 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Just in case you lose wifi and you need to work, or you want to make changes
+    but not share them yet.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Having to send clones back and forth without any track of forks would become
+    very confusing. Github allows easy sharing and access between coders.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a separate branch allows work to be organized without
+    conflict between edits. Once edits are completed and functional, then you
+    add it to the master branch.
